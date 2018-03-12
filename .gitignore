@@ -3,4 +3,6 @@ node_modules/
 demo/
 npm-debug.log
 src/App.vue
+!/dist/vueWysiwyg.js
+!/dist/vueWysiwyg.css
 dist
